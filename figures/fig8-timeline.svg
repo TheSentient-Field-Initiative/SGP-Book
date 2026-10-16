@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="240" viewBox="0 0 900 240" font-family="sans-serif">
+<title>Figure 8 — Research timeline May to October 2026 (illustration)</title>
+<text x="450" y="28" text-anchor="middle" font-size="13" fill="#555">Figure 8 — From first formulations to portfolio decision (illustration)</text>
+<line x1="40" y1="130" x2="860" y2="130" stroke="#333" stroke-width="2"/>
+<g font-size="12" text-anchor="middle">
+<circle cx="80" cy="130" r="6" fill="#333"/><text x="80" y="110">May 19</text><text x="80" y="160">first lines</text>
+<circle cx="200" cy="130" r="6" fill="#333"/><text x="200" y="110">Jun 14</text><text x="200" y="160">theory compass</text>
+<circle cx="320" cy="130" r="6" fill="#333"/><text x="320" y="110">Jul 25</text><text x="320" y="160">debt register</text>
+<circle cx="440" cy="130" r="6" fill="#333"/><text x="440" y="110">Aug 4</text><text x="440" y="160">governance freeze</text>
+<circle cx="555" cy="130" r="6" fill="#333"/><text x="555" y="110">Sep 5</text><text x="555" y="160">subtraction</text>
+<circle cx="660" cy="130" r="6" fill="#333"/><text x="660" y="110">Oct 1</text><text x="660" y="160">lost wisdom</text>
+<circle cx="770" cy="130" r="6" fill="#c00"/><text x="770" y="110">Oct 7–10</text><text x="770" y="160">RD-001&#8594;RD-004</text>
+<circle cx="855" cy="130" r="6" fill="#0a0"/><text x="855" y="110">Oct 16</text><text x="855" y="160">book repo</text>
+</g>
+<text x="450" y="205" text-anchor="middle" font-size="12" fill="#555">Tracked commits anchor May–August; working-file headers date September–October (see Appendix G).</text>
+</svg>

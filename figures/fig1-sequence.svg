@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220" font-family="sans-serif">
+<title>Figure 1 — The raw SGP conceptual sequence (illustration)</title>
+<defs><marker id="a1" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8" fill="none" stroke="#333" stroke-width="1.5"/></marker></defs>
+<rect x="10" y="70" width="150" height="80" rx="8" fill="#eef4ff" stroke="#333"/>
+<text x="85" y="100" text-anchor="middle" font-size="14" font-weight="bold">Sentience</text>
+<text x="85" y="122" text-anchor="middle" font-size="12">as response</text>
+<line x1="160" y1="110" x2="195" y2="110" stroke="#333" stroke-width="1.5" marker-end="url(#a1)"/>
+<rect x="195" y="70" width="150" height="80" rx="8" fill="#eef4ff" stroke="#333"/>
+<text x="270" y="100" text-anchor="middle" font-size="14" font-weight="bold">Reality</text>
+<text x="270" y="122" text-anchor="middle" font-size="12">is sentience</text>
+<line x1="345" y1="110" x2="380" y2="110" stroke="#333" stroke-width="1.5" marker-end="url(#a1)"/>
+<rect x="380" y="70" width="150" height="80" rx="8" fill="#eef4ff" stroke="#333"/>
+<text x="455" y="100" text-anchor="middle" font-size="14" font-weight="bold">Physical world</text>
+<text x="455" y="122" text-anchor="middle" font-size="12">as experience-content</text>
+<line x1="530" y1="110" x2="565" y2="110" stroke="#333" stroke-width="1.5" marker-end="url(#a1)"/>
+<rect x="565" y="70" width="150" height="80" rx="8" fill="#eef4ff" stroke="#333"/>
+<text x="640" y="100" text-anchor="middle" font-size="14" font-weight="bold">Mathematics</text>
+<text x="640" y="122" text-anchor="middle" font-size="12">as possibility</text>
+<line x1="715" y1="110" x2="750" y2="110" stroke="#c00" stroke-width="1.5" stroke-dasharray="6,4" marker-end="url(#a1)"/>
+<rect x="750" y="70" width="140" height="80" rx="8" fill="#fff0ee" stroke="#c00" stroke-dasharray="6,4"/>
+<text x="820" y="100" text-anchor="middle" font-size="14" font-weight="bold">Actualization</text>
+<text x="820" y="122" text-anchor="middle" font-size="12">the missing bridge</text>
+<text x="450" y="30" text-anchor="middle" font-size="13" fill="#555">Figure 1 — The raw SGP conceptual sequence (illustration; dashed = unresolved transition)</text>
+<text x="450" y="195" text-anchor="middle" font-size="12" fill="#555">Solid arrows: stipulated moves (C1&#8594;C2&#8594;C3; C4 assumed). Dashed arrow: the unexplained selection step (C5).</text>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300" font-family="sans-serif">
+<title>Figure 7 — Same species identical; different species distinct (illustration)</title>
+<text x="450" y="28" text-anchor="middle" font-size="13" fill="#555">Figure 7 — Indistinguishability stops at the species boundary (illustration)</text>
+<g font-size="13">
+<rect x="60" y="60" width="370" height="200" rx="8" fill="#efffef" stroke="#0a0" stroke-width="2"/>
+<text x="245" y="88" text-anchor="middle" font-weight="bold">Within one species: identical</text>
+<circle cx="150" cy="150" r="26" fill="#fff" stroke="#333"/><text x="150" y="156" text-anchor="middle">e&#8315;</text>
+<circle cx="250" cy="150" r="26" fill="#fff" stroke="#333"/><text x="250" y="156" text-anchor="middle">e&#8315;</text>
+<circle cx="350" cy="150" r="26" fill="#fff" stroke="#333"/><text x="350" y="156" text-anchor="middle">e&#8315;</text>
+<text x="245" y="205" text-anchor="middle" font-size="12">swap labels: nothing changes</text>
+<text x="245" y="225" text-anchor="middle" font-size="12">(symmetrized state; occupation numbers)</text>
+<rect x="470" y="60" width="370" height="200" rx="8" fill="#fff0ee" stroke="#c00" stroke-width="2"/>
+<text x="655" y="88" text-anchor="middle" font-weight="bold">Across species: distinct</text>
+<circle cx="580" cy="150" r="26" fill="#fff" stroke="#333"/><text x="580" y="156" text-anchor="middle">e&#8315;</text>
+<text x="655" y="150" text-anchor="middle" font-size="20">&#8800;</text>
+<circle cx="730" cy="150" r="26" fill="#fff" stroke="#333"/><text x="730" y="156" text-anchor="middle">p&#8314;</text>
+<text x="655" y="205" text-anchor="middle" font-size="12">mass, charge, spin class, structure all differ</text>
+<text x="655" y="225" text-anchor="middle" font-size="12">electron: elementary; proton: quark composite</text>
+</g>
+<text x="450" y="288" text-anchor="middle" font-size="12" fill="#555">Claim (i) is standard physics. Claim (ii) — one underlying entity — appears nowhere in the records.</text>
+</svg>

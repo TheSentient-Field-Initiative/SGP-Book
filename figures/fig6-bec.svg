@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300" font-family="sans-serif">
+<title>Figure 6 — Bose-Einstein condensation: macroscopic occupation (illustration)</title>
+<text x="450" y="28" text-anchor="middle" font-size="13" fill="#555">Figure 6 — One rung crowded, the rest thin (illustration; not to scale)</text>
+<g font-size="13">
+<line x1="150" y1="250" x2="750" y2="250" stroke="#333" stroke-width="2"/>
+<line x1="150" y1="200" x2="750" y2="200" stroke="#999" stroke-width="1"/>
+<line x1="150" y1="150" x2="750" y2="150" stroke="#999" stroke-width="1"/>
+<line x1="150" y1="100" x2="750" y2="100" stroke="#999" stroke-width="1"/>
+<text x="120" y="254" text-anchor="end">ground</text>
+<text x="120" y="204" text-anchor="end">level 1</text>
+<text x="120" y="154" text-anchor="end">level 2</text>
+<text x="120" y="104" text-anchor="end">level 3</text>
+<g fill="#0a0">
+<circle cx="250" cy="250" r="9"/><circle cx="290" cy="250" r="9"/><circle cx="330" cy="250" r="9"/><circle cx="370" cy="250" r="9"/><circle cx="410" cy="250" r="9"/><circle cx="450" cy="250" r="9"/><circle cx="490" cy="250" r="9"/><circle cx="530" cy="250" r="9"/><circle cx="570" cy="250" r="9"/><circle cx="610" cy="250" r="9"/><circle cx="650" cy="250" r="9"/>
+</g>
+<g fill="#446">
+<circle cx="300" cy="200" r="7"/><circle cx="550" cy="200" r="7"/>
+<circle cx="420" cy="150" r="7"/>
+</g>
+<text x="450" y="282" text-anchor="middle" font-size="12" fill="#555">N atoms, one macroscopic wavefunction &#966;(x) — most in the lowest state, a thermal cloud above; distinctions remain.</text>
+</g>
+</svg>

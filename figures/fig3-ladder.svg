@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="420" viewBox="0 0 900 420" font-family="sans-serif">
+<title>Figure 3 — The mathematical ladder with rung status (illustration)</title>
+<text x="450" y="28" text-anchor="middle" font-size="13" fill="#555">Figure 3 — The ladder: question per rung, status per audit (illustration)</text>
+<g font-size="13">
+<rect x="120" y="50" width="600" height="36" rx="6" fill="#eef4ff" stroke="#333"/><circle cx="145" cy="68" r="9" fill="#c22"/><text x="250" y="73">1. Response vs relation — REDUCES (0/66,067)</text>
+<rect x="120" y="92" width="600" height="36" rx="6" fill="#eef4ff" stroke="#333"/><circle cx="145" cy="110" r="9" fill="#2a2"/><text x="250" y="115">2. Orientation — FORCED, but standard theory</text>
+<rect x="120" y="134" width="600" height="36" rx="6" fill="#eef4ff" stroke="#333"/><circle cx="145" cy="152" r="9" fill="#2a2"/><text x="250" y="157">3. Closure: collapse + universality (R29/R31/R40)</text>
+<rect x="120" y="176" width="600" height="36" rx="6" fill="#fff3e0" stroke="#333"/><circle cx="145" cy="194" r="9" fill="#c22"/><text x="250" y="199">3b. Reconstruction FALSE (R35); convexity FALSE (R50)</text>
+<rect x="120" y="218" width="600" height="36" rx="6" fill="#eef4ff" stroke="#333"/><circle cx="145" cy="236" r="9" fill="#2a2"/><text x="250" y="241">4. Fiber geometry + R_C maximum (Paper 3, manuscript)</text>
+<rect x="120" y="260" width="600" height="36" rx="6" fill="#eef4ff" stroke="#333"/><circle cx="145" cy="278" r="9" fill="#2a2"/><text x="250" y="283">5. Poset product + count 2^|S|+|E| (Paper 4, manuscript)</text>
+<rect x="120" y="302" width="600" height="36" rx="6" fill="#eef4ff" stroke="#333"/><circle cx="145" cy="320" r="9" fill="#2a2"/><text x="250" y="325">6. T0 boundary; composition boundary (sharp, standard)</text>
+<rect x="120" y="344" width="600" height="36" rx="6" fill="#eee" stroke="#333"/><circle cx="145" cy="362" r="9" fill="#888"/><text x="250" y="367">7–8. Interaction / selection / physics: NO new bridge</text>
+</g>
+<text x="450" y="405" text-anchor="middle" font-size="12" fill="#555">Green = established result (standard mathematics). Red = clean negative. Gray = closed without a bridge. Manuscripts await peer review.</text>
+</svg>
