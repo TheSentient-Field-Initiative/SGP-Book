@@ -1,0 +1,26 @@
+% Book-specific preamble.
+% Glyph fallbacks for characters missing from the body/mono text fonts.
+% Wrapped in \AtBeginDocument so the definitions win over any package
+% that re-asserts its own Unicode setup when the document begins
+% (e.g. unicode-math's active-character handling). Each fallback maps
+% the character to its standard LaTeX math equivalent. Content unaltered.
+\usepackage{newunicodechar}
+\AtBeginDocument{%
+\newunicodechar{′}{\ensuremath{'}}%
+\newunicodechar{⁻}{\ensuremath{^{-}}}%
+\newunicodechar{⁹}{\ensuremath{^{9}}}%
+\newunicodechar{↦}{\ensuremath{\mapsto}}%
+\newunicodechar{⇏}{\ensuremath{\nRightarrow}}%
+\newunicodechar{∃}{\ensuremath{\exists}}%
+\newunicodechar{∅}{\ensuremath{\emptyset}}%
+\newunicodechar{∩}{\ensuremath{\cap}}%
+\newunicodechar{∪}{\ensuremath{\cup}}%
+\newunicodechar{≠}{\ensuremath{\neq}}%
+\newunicodechar{⊆}{\ensuremath{\subseteq}}%
+\newunicodechar{⊋}{\ensuremath{\supsetneq}}%
+\newunicodechar{⊣}{\ensuremath{\dashv}}%
+\newunicodechar{⟩}{\ensuremath{\rangle}}%
+\newunicodechar{⟺}{\ensuremath{\iff}}%
+}
+% Tolerate the long verbatim source paths in the audit-trail appendices.
+\setlength{\emergencystretch}{3em}

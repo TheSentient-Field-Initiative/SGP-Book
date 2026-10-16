@@ -1,6 +1,21 @@
 # BUILD — Assembling and Verifying the Manuscript
 
-## Assemble (reading order)
+## Single-file LaTeX + PDF (the deliverable)
+
+```bash
+bash build/build.sh   # -> manuscript.tex (single file) + manuscript.pdf
+```
+
+Pipeline: `build/assemble.py` concatenates chapters/appendices in order and
+injects the nine figures (`figures/*.pdf`, converted from SVG by
+rsvg-convert) at their mapped positions → `build/manuscript.md` →
+pandoc (book class, TOC, TeX Gyre Termes + TeX Gyre DejaVu Math) →
+`manuscript.tex` → XeLaTeX ×2 → `manuscript.pdf`. `build/preamble.tex`
+holds glyph fallbacks and line-breaking tolerance. Requirements:
+python3, pandoc, xelatex, rsvg-convert. Expected: 0 errors, 0 missing
+glyphs, all 9 figures included.
+
+## Plain-text concatenation (reading order)
 
 ```bash
 cat chapters/prologue.md chapters/ch01.md chapters/ch02.md chapters/ch03.md \

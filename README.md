@@ -6,7 +6,11 @@ A book-length account of the Sentience-Generativity Program (SGP): its founding 
 
 ## Status
 
-Manuscript draft for **editorial and specialist review**. Claims are traced to Institute records (`path:line` citations) and labeled per Appendix M ([Established] [Math-verified] [Finite-check] [SGP-commitment] [SGP-interpretation] [SGP-hypothesis] [Author-inference] [Negative] [Unresolved]). External DOIs for Bell (1964), BEC (1995 ×2), and loophole-free Bell (2015) verified live; other external refs are canonical. Manuscripts (Paper 3, Paper 4) are reported with stated scope + internal audits; peer review outstanding. The manuscript is NOT a scientific validation of SGP.
+Manuscript draft for **editorial and specialist review**. Two forms:
+
+- `manuscript.tex` — the complete single-file LaTeX manuscript (generated from `chapters/` + `appendices/` by `build/build.sh`).
+- `manuscript.pdf` — the compiled book (94 pp.), built with XeLaTeX.
+ Claims are traced to Institute records (`path:line` citations) and labeled per Appendix M ([Established] [Math-verified] [Finite-check] [SGP-commitment] [SGP-interpretation] [SGP-hypothesis] [Author-inference] [Negative] [Unresolved]). External DOIs for Bell (1964), BEC (1995 ×2), and loophole-free Bell (2015) verified live; other external refs are canonical. Manuscripts (Paper 3, Paper 4) are reported with stated scope + internal audits; peer review outstanding. The manuscript is NOT a scientific validation of SGP.
 
 ## Reading guide
 
